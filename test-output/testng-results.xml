@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5199" started-at="2018-10-05T11:01:25Z" finished-at="2018-10-05T11:01:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5199" started-at="2018-10-05T11:01:25Z" finished-at="2018-10-05T11:01:31Z">
+      <class name="getRequest.ValidateAcceptanceCriteria">
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:getRequest.ValidateAcceptanceCriteria@724af044]" name="setupMethod" is-config="true" duration-ms="4518" started-at="2018-10-05T11:01:25Z" finished-at="2018-10-05T11:01:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="verifyResponsecode()[pri:0, instance:getRequest.ValidateAcceptanceCriteria@724af044]" name="verifyResponsecode" duration-ms="10" started-at="2018-10-05T11:01:30Z" finished-at="2018-10-05T11:01:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResponsecode -->
+        <test-method status="PASS" signature="findName()[pri:1, instance:getRequest.ValidateAcceptanceCriteria@724af044]" name="findName" duration-ms="562" started-at="2018-10-05T11:01:30Z" finished-at="2018-10-05T11:01:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findName -->
+        <test-method status="PASS" signature="findCanRelist()[pri:2, instance:getRequest.ValidateAcceptanceCriteria@724af044]" name="findCanRelist" duration-ms="30" started-at="2018-10-05T11:01:30Z" finished-at="2018-10-05T11:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findCanRelist -->
+        <test-method status="PASS" signature="findDescInGallryItem()[pri:3, instance:getRequest.ValidateAcceptanceCriteria@724af044]" name="findDescInGallryItem" duration-ms="42" started-at="2018-10-05T11:01:31Z" finished-at="2018-10-05T11:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findDescInGallryItem -->
+      </class> <!-- getRequest.ValidateAcceptanceCriteria -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
