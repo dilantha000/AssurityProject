@@ -2,7 +2,7 @@
 
 ## description
 
-Purpose of this testcase's are to verify Acceptance criterias are returns the correct values.
+Purpose of this testcase's are to verify Acceptance criterias are returns the correct values, and sample out put is given below.
 
 Name  = "Carbon credits"
 CanRelist = true
