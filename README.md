@@ -12,6 +12,7 @@ what this is doing...
 - maven
 
 ## How to run
+test
 
 Run <> as a test ng ...
 
