@@ -5,10 +5,8 @@
     <classes>
       <class name="getRequest.ValidateAcceptanceCriteria">
         <methods>
-          <include name="verifyResponsecode"/>
-          <include name="findCanRelist"/>
-          <include name="findName"/>
-          <include name="findDesc"/>
+          <include name="setupMethod"/>
+          <include name="findDescInGallryItem"/>
         </methods>
       </class> <!-- getRequest.ValidateAcceptanceCriteria -->
     </classes>

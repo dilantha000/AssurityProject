@@ -1,13 +1,14 @@
 # Title
+Assurity Project 
 
-## description
+## Description
 
-Purpose of this testcase's are to verify Acceptance criterias are returns the correct values, and sample out put is given below.
+The purpose of these test cases is to verify whether the acceptance criteria will return the correct values.
+The sample out put is given below.
 
 Name  = "Carbon credits"
 CanRelist = true
 The Promotions element with Name = "Gallery" has a Description that contains the text "2x larger image"
-
 
 ## Prerequisits
 
@@ -23,7 +24,5 @@ The Promotions element with Name = "Gallery" has a Description that contains the
 
 ## How to run
 
-Run <> as a testNG ...
-
-Generate testNG xml
-Run through maven commands in console. (mvn clean test) and out put will be recorderd to test-output folder.
+1.) Run <> as a testNG (Go to src/test/java then right right click on ValidateAcceptanceCriteria.java and   	Run As Test NG test
+2.)	Generate testNG xml
