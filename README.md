@@ -6,9 +6,9 @@ Assurity Project
 The purpose of these test cases is to verify whether the acceptance criteria will return the correct values.
 The sample out put is given below.
 
-Name  = "Carbon credits"
-CanRelist = true
-The Promotions element with Name = "Gallery" has a Description that contains the text "2x larger image"
+- Name  = "Carbon credits"
+- CanRelist = true
+- The Promotions element with Name = "Gallery" has a Description that contains the text "2x larger image"
 
 ## Prerequisits
 
@@ -24,5 +24,5 @@ The Promotions element with Name = "Gallery" has a Description that contains the
 
 ## How to run
 
-1.) Run <> as a testNG (Go to src/test/java then right right click on ValidateAcceptanceCriteria.java and   	Run As Test NG test
-2.)	Generate testNG xml
+- Run <> as a testNG (Go to src/test/java then right right click on ValidateAcceptanceCriteria.java and Run As Test NG test
+- Generate testNG xml
