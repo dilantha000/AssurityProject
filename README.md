@@ -24,5 +24,5 @@ The sample out put is given below.
 
 ## How to run
 
-- Run <> as a testNG (Go to src/test/java then right right click on ValidateAcceptanceCriteria.java and Run As Test NG test
-- Generate testNG xml
+- Run <> as a testNG (Go to src/test/java then right right click on ValidateAcceptanceCriteria.java and Run As Test NG test)
+- Right click on testing.xml and Run as TestNG Suite 
